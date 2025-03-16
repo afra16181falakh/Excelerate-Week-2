@@ -6,6 +6,7 @@
   - Visualizing data to identify key insights.
   - Assessing relationships between variables to inform predictive modeling.
 
+
 # Project Goals
 
 	1.	Identify Trends and Patterns:
